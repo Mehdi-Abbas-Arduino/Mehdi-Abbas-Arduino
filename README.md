@@ -35,7 +35,7 @@ I am a passionate Data Scientist with experience in building and deploying machi
 
 - **Email:** [youremail@example.com](askmehdiabbas@gmail.com)
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/mehdi-abbas-102977248/)
-- **GitHub:** [Your GitHub Profile]([https://github.com/yourusername](https://github.com/Mehdi-Abbas-Arduino))
+- **GitHub:** [Your GitHub Profile](https://github.com/Mehdi-Abbas-Arduino)
 
 ### 🎨 Fun Fact
 I also enjoy playing futsal during my free time!
