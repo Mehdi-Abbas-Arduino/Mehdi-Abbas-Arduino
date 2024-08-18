@@ -40,5 +40,5 @@ I am a passionate Data Scientist with experience in building and deploying machi
 ### 🎨 Fun Fact
 I also enjoy playing futsal during my free time!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mehdi-Abbas-Arduino&show_icons=true&theme=radical)
 
